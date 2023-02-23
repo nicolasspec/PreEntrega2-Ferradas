@@ -1,0 +1,24 @@
+.navbar {
+  background-color: #0f8e99;
+}
+
+.bg-color {
+  width: 100%;
+  height: 70%;
+  background: #2ed6e6;
+  position: absolute;
+  top: 0;
+}
+
+.wave-w1 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 150px;
+  left: 0;
+  background-image: url(../wave/wave1.svg);
+}
+
+footer {
+  background-color: #336266;
+}
